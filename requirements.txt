@@ -1,0 +1,7 @@
+streamlit==1.8.0
+pandas==1.4.0
+matplotlib==3.5.1
+seaborn==0.11.2
+numpy==1.22.2
+requests==2.27.1
+DateTime==4.4
