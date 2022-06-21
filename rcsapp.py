@@ -11,7 +11,7 @@ st.title('US Census API Data For Resillence and Community Service')
 
 current_year=date.today().year
 
-st.sidebar.header('User Input Features (data of year after 2019 might not be available for scraping currently')
+st.sidebar.header('User Input Features (data of year after 2019 might not be available for scraping currently)')
 selected_year =  st.sidebar.selectbox('Input Year', list(reversed(range(2005,current_year+1))))
 
 
