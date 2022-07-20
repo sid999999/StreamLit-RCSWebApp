@@ -17,7 +17,8 @@ selected_year =  st.sidebar.selectbox('Input Year', list((range(2005,current_yea
 
 
 # Choose the year, read api keys file and assign variables
-census_api_key = "663083891f5b9346c0f75af604c1bb8f7e48712b"
+census_api_key = "30b931a8bb54d1d6f90a0d8ccca6d7fdbb857fdf"
+#old_census_api_key = "663083891f5b9346c0f75af604c1bb8f7e48712b"
 YEAR = 2019
 YEAR = selected_year
 
